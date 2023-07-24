@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>Shop Fun : Home</title>
+ <link rel = "stylesheet" href = "styles1.css">
+</head>
+
+<body>
+
+<p1><b>Login here</b></p1><br><br>
+
+<input type = "text" id = "log" name = "log" size = "150" placeholder = "phone number/email"><br><br>
+
+<p2>or</p2><br><br>
+<p3><a href = "file:///G:/lab tech project/login/login.html"><b>Register</b></a></p3><!--hyperlink to login page -->
+<br>
+
+<p style = "text-align : right; font-size : 25px;"><a href = "file:///G:/lab tech project/categories/categories.html"><b>Categories</b></a>&nbsp;&nbsp;&nbsp;
+<a href = "file:///G:/lab tech project/mens collection/men.html"><b><mark>Men</mark></b></a>&nbsp;&nbsp;&nbsp;
+<a href = "file:///G:/lab tech project/womens collection/women.html"><b><mark>Women</mark></b></a>&nbsp;&nbsp;&nbsp;
+<a href = "file:///G:/lab tech project/cart/cart.html"><b><span style = "background-color : blue">View Cart</span></b></a></p>
+
+<hr class = "new1"><marquee><p4><b>Shipping and delivery is currently available within India only.</b></p4></marquee><hr class = "new1">
+
+<div class="container">
+	<img src="homepage.jpg" alt="online-shopping" style="width:100%;">
+
+	<div class="centered1">§hòp <i>f</i><sub>û</sub></i>Ň</i></div>
+
+	<div class="centered2"><b>Iñdîà§ Be§t §hôppîg Åpp</b></div><br><br><br><br>
+
+	<div class="bottom-right">www.shopfun@gmail.com</div>
+
+	<div class="bottom-left"><h3>Get to know us</h3>
+	<p><a href = " "><b>About us</b></a></p></div>
+
+	<div class="centered3"><h3>Contact us</h3>
+	<p><b><a href = "https://www.facebook.com/">Facebook</a><br><br><a href = "https://twitter.com/">Twitter</a><br><br>
+	<a href = "https://www.instagram.com/">Instagram</b></a></p></div>
+
+</div>
+
+</body>
+
+</html>

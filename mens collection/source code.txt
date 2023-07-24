@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Shop Fun : Men's Collection</title>
+	<link rel = "stylesheet" href = "styles4.css">
+</head>
+
+<body>
+
+<div class = "top">
+
+	<p style = "text-align : right; font-size : 20px;"><a href = "file:///G:/lab tech project/homepage/homepage.html"><b>Home</b></a>&nbsp;&nbsp;&nbsp;
+	<a href = "file:///G:/lab tech project/login/login.html"><b>Login</b></a>&nbsp;&nbsp;&nbsp;
+	<a href = "file:///G:/lab tech project/categories/categories.html"><b>Categories</b></a>&nbsp;&nbsp;&nbsp;
+	<a href = "file:///G:/lab tech project/cart/cart.html"><b><span style = "background-color : blue">View Cart</span></b></a></p>
+
+
+	<h1><font size="800"><i>§hòp f<sub>ù</sub>Ň</i></font></h1>   
+	<input type = "text" id = "search3" name = "search3" size = "185" placeholder = "search for products, brands and more"><br><br><br><br>
+
+</div>
+
+<div class = "middle">
+
+	<div style="text-align: left">
+		<br><br><img src="dress1.jpeg" alt = "t-shirt_hoodie" width="220">
+	</div>
+	
+	<div class = "m1"><a href = "file:///G:/lab tech project/menhoodie/menhoodie.html">T-shirt Hoodie(Blue, White)</a></div>
+
+	<div class = "m2"><mark>₹699</mark> &nbsp;&nbsp;<strike>₹1350</strike>  save ₹651(48%) <br> 
+	<b><span style = "background-color : blue">Free delivery on your first order from this category</b></div><br><br>
+
+	<div style="text-align: left">
+		<br><br><img src="dress2.jpg" alt = "panjabi" width="220">
+	</div>
+	
+	<div class = "m3"><a href = "file:///G:/lab tech project/menpunjabi/punjabi.html">Punjabi(Red, Yellow)</a></div>
+
+	<div class = "m4"><mark>₹559</mark> &nbsp;&nbsp;<strike>₹1100</strike>  save ₹541(49%) <br> 
+	<b><span style = "background-color : blue">Free delivery on your first order from this category</b></div><br><br>
+
+	<div style="text-align: left">
+		<br><br><img src="dress3.jpg" alt = "skinny-jeans" width="250">
+	</div>
+	
+	<div class = "m5"><a href = "file:///G:/lab tech project/menjeans/jeans.html">Skinny Jeans(Dark Blue)</a></div>
+
+	<div class = "m6"><mark>₹1000</mark> &nbsp;&nbsp;<strike>₹3550</strike>  save ₹2550(72%) <br> 
+	<b><span style = "background-color : blue">Free delivery on your first order from this category</b></div><br><br><br>
+
+	<div style="text-align: left">
+		<br><br><img src="dress4.jpg" alt = "full_sleeve_shirt" width="220">
+	</div>
+	
+	<div class = "m7"><a href = "file:///G:/lab tech project/menshirt/menshirt.html">Full-sleeve soft Cotton/Silk blend Shirt(Dark Blue)</a></div>
+
+	<div class = "m8"><mark>₹3500</mark> &nbsp;&nbsp;<strike>₹6450</strike>  save ₹2950(46%) <br> 
+	<b><span style = "background-color : blue">Free delivery on your first order from this category</b></div><br><br><br>
+
+
+</div>
+
+<div class = "bottom">
+
+	<div class="bottom-left"><h4>Get to know us</h4>
+	<p><a href = " "><b><span style = "background-color : black">About us</span></b></a></p></div>
+
+	<div class="bottom-center"><h4><b>Contact us</b></h4>
+	<p><span style = "background-color : black"><a href = "https://www.facebook.com/">Facebook</a><br><br><a href = "https://twitter.com/">Twitter</a><br><br>
+	<a href = "https://www.instagram.com/">Instagram</span></a></p></div>
+
+	<br><br><br><br><br><br><br><br><hr><marquee><b>New stock in limited supply due to Covid-19. Stay tuned for updates!</b></marquee><hr>
+
+</div>
+
+</body>
+</html>

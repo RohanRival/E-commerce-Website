@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Shop Fun : Login/Register</title>
+	<link rel = "stylesheet" href = "styles5.css">
+	
+	<style>
+	table
+	{
+		border: 1px solid white;
+	}
+	
+	th, td 
+	{
+  		padding: 5px;
+	}
+	</style>
+</head>
+
+<body>
+
+<div class = "top">
+
+	<p style = "text-align : right; font-size : 30px;"><a href = "file:///G:/lab tech project/homepage/homepage.html"><b>Home</b></a>&nbsp;&nbsp;&nbsp;
+	<a href = "file:///G:/lab tech project/categories/categories.html"><b>Categories</b></a>&nbsp;&nbsp;&nbsp;
+	<a href = "file:///G:/lab tech project/cart/cart.html"><b><span style = "background-color : blue">View Cart</span></b></a></p>
+
+
+	<h1><font size="800"><i>§hòp f<sub>ù</sub>Ň</i></font></h1>   
+
+</div>
+
+<div class = "middle">
+
+	<center>
+	<br><font size = "+5" color = white><b>Login</b></font><br><br><br>
+	<form>
+	<table>
+	<tr>
+	   <td><label for = "eid">Email Id or Mobile Number<br></label></td>
+	</tr>
+	<tr>
+	   <td><input type =text name =eid></td>
+	</tr>
+	<tr>
+	   <td><label for = "pass">Password<br></label></td>
+	</tr>
+	<tr>
+	   <td><input type =text name =pass></td>
+	</tr>
+	<tr>
+	   <td><br><input type="submit" id="Continue" value="Continue"  style="height:30px; width:177px" onclick="alert('Successfully logged in!')"></td>
+	</tr>
+
+	</table>
+	</form>
+	</center>
+
+	<center>
+	<br><br><p style = "color : red";><font size = "+2"> or <b>register</b> below to create an account</font></p>
+	</center>
+
+	<br><center>
+	<form>
+	<table>
+	<tr>
+	   <td><label for = "n"><span style = "background-color : blue">Your name</span><br></label></td>
+	</tr>
+	<tr>
+	   <td><input type =text name =n></td>
+	</tr>
+	<tr>
+	   <td><br><label for = "mob"><span style = "background-color : blue">Mobile Number</span><br></label></td>
+	</tr>
+	<tr>
+	   <td>+91 &nbsp; <input type =text name =n></td>
+	</tr>
+	<tr>
+	   <td><br><label for = "eid"><span style = "background-color : blue">Email (optional)</span><br></label></td>
+	</tr>
+	<tr>
+	   <td><input type =text name =eid></td>
+	</tr>
+	<tr>
+	   <td><br><label for = "pass"><span style = "background-color : blue">Password</span><br></label></td>
+	</tr>
+	<tr>
+	   <td><input type =text name =pass></td>
+	</tr>
+	<tr>
+	   <td><br>We will send you a text to verify your number.<br>Message and data rates may apply.</td>
+	</tr>
+	<tr>
+	   <td><br><input type =submit id =Register value="Register" style="height:30px; width:280px" onclick="alert('Successfully registered!')"></td>
+	</tr>
+
+	</table>
+	</form>
+	</center>
+</div>
+
+<div class = "bottom">
+
+	<div class="bottom-left"><h4>Get to know us</h4>
+	<p><a href = " "><b><span style = "background-color : black">About us</span></b></a></p></div>
+
+	<div class="bottom-center"><h4><b>Contact us</b></h4>
+	<p><span style = "background-color : black"><a href = "https://www.facebook.com/">Facebook</a><br><br><a href = "https://twitter.com/">Twitter</a><br><br>
+	<a href = "https://www.instagram.com/">Instagram</span></a></p></div>
+
+</div><br><br>
+
+</body>
+</html>

@@ -1,0 +1,160 @@
+a:link 
+{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active 
+{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1
+{
+	color : red;
+	background-color: yellow;
+	text-align: center;
+}
+
+body
+{
+	background-color : black;
+}
+
+.top
+{
+	background-color : black;
+	height : 180px;
+	width : 1332px;
+}
+
+.middle
+{
+	background-color : black;
+	height : 1550px;
+	width : 1332px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.bottom
+{
+	height : 210px;
+	width : 1332px;
+	background-color : DarkSlateBlue;
+	color : white ;	
+}
+
+.bottom-center
+{
+  position: absolute;
+  top: 280%;
+  left: 45%;
+  color:white;
+  font-family: "Lucida Console", "Courier New", monospace;	
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: -1220px;
+  left: 16px;
+  color : white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.w1
+{
+	position: absolute;
+  	top: 280px;
+  	left: 246px;
+  	color : white;
+	background-color : white;
+	font-size : 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.w2
+{
+	position: absolute;
+  	top: 410px;
+  	left: 246px;
+  	color : white;
+	font-size : 20px;
+	font family : Arial, Helvetica, sans-serif;
+}
+
+.w3
+{
+	position: absolute;
+  	top: 670px;
+  	left: 246px;
+  	color : white;
+	background-color : white;
+	font-size : 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.w4
+{
+	position: absolute;
+  	top: 790px;
+  	left: 246px;
+  	color : white;
+	font-size : 20px;
+	font family : Arial, Helvetica, sans-serif;
+}
+
+.w5
+{
+	position: absolute;
+  	top: 1050px;
+  	left: 246px;
+  	color : white;
+	background-color : white;
+	font-size : 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.w6
+{
+	position: absolute;
+  	top: 1180px;
+  	left: 246px;
+  	color : white;
+	font-size : 20px;
+	font family : Arial, Helvetica, sans-serif;
+}
+
+.w7
+{
+	position: absolute;
+  	top: 1420px;
+  	left: 246px;
+  	color : white;
+	background-color : white;
+	font-size : 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.w8
+{
+	position: absolute;
+  	top: 1520px;
+  	left: 246px;
+  	color : white;
+	font-size : 20px;
+	font family : Arial, Helvetica, sans-serif;
+}

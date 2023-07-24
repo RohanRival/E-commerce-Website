@@ -1,0 +1,86 @@
+a:link 
+{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active 
+{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1
+{
+	color : red;
+	background-color: yellow;
+	text-align: center;
+}
+
+body
+{
+	background-color : white;
+}
+
+.top
+{
+	background-color : black;
+	height : 150px;
+	width : 1332px;
+}
+
+.middle1
+{
+	background-color : black;
+	height : 550px;
+	width : 1332px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.middle2
+{
+	background-color : black;
+	height : 58px;
+	width : 1332px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.bottom
+{
+	position : absolute;
+	top : 133%;
+	height : 150px;
+	width : 1332px;
+	background-color : midnightblue;
+	color : white ;	
+}
+
+.bottom-center
+{
+  position: absolute;
+  bottom: 5%;
+  left: 45%;
+  color:white;
+  font-family: "Lucida Console", "Courier New", monospace;	
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 74px;
+  left: 16px;
+  color : white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}

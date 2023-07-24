@@ -1,0 +1,167 @@
+a:link 
+{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active 
+{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1
+{
+	color : red;
+	background-color: yellow;
+	text-align: center;
+}
+
+h2.m2
+{
+	margin : 0px 0px 0px 30px;
+}
+
+h5.m5
+{
+	margin : 5px 0px 0px 20px;
+}
+
+p.m1 
+{
+	margin : 0px 0px 0px 50px;
+}
+
+p1
+{
+	color : red;
+	background-color : black;
+	font-size : 40px;
+	
+}
+
+p2
+{
+	color : red;
+	font-size : 30px;
+	
+}
+
+body
+{
+	background-color : black;
+}
+
+.top
+{
+	background-color : black;
+	height : 180px;
+	width : 1332px;
+}
+
+.top-left1 
+{
+	position: absolute;
+	top: 398px;
+	left: 16px;
+}
+
+.top-left2 
+{
+	position: absolute;
+	top: 498px;
+	left: 16px;
+}
+
+.top-right
+{
+  	position: absolute;
+  	top: 990px;
+  	right: 174px;
+}
+
+.centered 
+{
+	position: absolute;
+  	top: 127%;
+  	left: 39%;
+}
+
+.middle
+{
+	background-color : white;
+	height : 1913px;
+	width : 1332px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom
+{
+	height : 210px;
+	width : 1332px;
+	background-color : navy;
+	color : white ;	
+}
+
+.bottom-center
+{
+  position: absolute;
+  top: 343%;
+  left: 45%;
+  color:white;
+  font-family: "Lucida Console", "Courier New", monospace;	
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: -1617px;
+  left: 16px;
+  color : white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.thumbnail:hover 
+{
+	position:relative;
+    	top:25px;
+    	left:35px;
+    	width:600px;
+    	height:auto;
+    	display:block;
+    	z-index:1;
+}
+
+.thumbnail2:hover 
+{
+	position:relative;
+    	top:25px;
+    	left:35px;
+    	width:400px;
+    	height:auto;
+    	display:block;
+    	z-index:1;
+}
+
+.thumbnail3:hover 
+{
+	position:relative;
+    	top:25px;
+    	left:35px;
+    	width:400px;
+    	height:auto;
+    	display:block;
+    	z-index:1;
+}

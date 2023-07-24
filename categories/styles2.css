@@ -1,0 +1,76 @@
+a:link 
+{
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover 
+{
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active 
+{
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1
+{
+	color : red;
+	background-color: yellow;
+	text-align: center;
+}
+
+body
+{
+	background-color : black;
+}
+
+.top
+{
+	background-color : black;
+	height : 180px;
+	width : 1332px;
+}
+
+.middle
+{
+	background-color : #303030;
+	height : 1550px;
+	width : 1332px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.bottom
+{
+	height : 210px;
+	width : 1332px;
+	background-color : DarkSlateBlue;
+	color : white ;	
+}
+
+.centered3
+{
+  position: absolute;
+  top: 280%;
+  left: 45%;
+  color:white;
+  font-family: "Lucida Console", "Courier New", monospace;	
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: -1220px;
+  left: 16px;
+  color : white;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
